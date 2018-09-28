@@ -19,7 +19,7 @@ allprojects {
 
 2º Add the gradle dependency
 ```
-compile 'com.github.simbiose:Encryption:2.0.1'
+implementation 'com.github.simbiose:Encryption:2.0.1'
 ```
 
 3º Get an Encryption instance
@@ -81,7 +81,7 @@ See more on Examples folder, there is an Android, a Java and a Kotlin project.
 
 ### Want to contribute? ###
 
-Fell free to contribute, We really like pull requests :octocat:
+Feel free to contribute, We really like pull requests :octocat:
 
 
 #### Third part ####
